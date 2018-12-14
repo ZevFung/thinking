@@ -4,3 +4,6 @@ https://github.com/zhaopeiym/LoveCollection
 https://www.cnblogs.com/jasondan/p/3497757.html  
 [简悦(SimpRead)](http://ksria.com/simpread/) - 让你瞬间进入沉浸式阅读的扩展
 
+2.做一个数据网站  
+类似[查询网](http://user.ip138.com/)
+
